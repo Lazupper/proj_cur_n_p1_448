@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Laurent Alves Maia de Assis</title>
+</head>
+<body>
+
+  <header>
+    <h1>Laurent Alves Maia de Assis</h1>
+    <img src="foto.png" alt="Foto de Laurent Alves Maia de Assis" width="150" height="150">
+  </header>
+
+  <hr>
+
+  <section>
+    <h2>Dados Pessoais</h2>
+    <ul>
+      <li><strong>Telefone:</strong> (83) 98857-5784</li>
+      <li><strong>Email:</strong> <a href="mailto:Laurentalvesmaia@gmail.com">Laurentalvesmaia@gmail.com</a></li>
+      <li><strong>Endereço:</strong> Avenida Mar Bering, 97 - Cabedelo, PB</li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <section>
+    <h2>Treinamentos Realizados</h2>
+    <ul>
+      <li>Curso de Inglês (CNA: 2014-2019)</li>
+      <li>Curso de Excel (GRC: 2017-2018)</li>
+      <li>Curso de Auxiliar Administrativo (GRC: 2017-2018)</li>
+      <li>Curso de Manuseio de Software (Softcom: 2022)</li>
+      <li>Curso de Gestão Empresarial com Inglês e Informática</li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <section>
+    <h2>Experiência Profissional</h2>
+    <article>
+      <h3>Auxiliar Administrativo, Vendedor, Estoquista</h3>
+      <p><strong>Empresa:</strong> HL Organizadores</p>
+      <p><strong>Período:</strong> 03/2022 - 04/2023</p>
+      <ul>
+        <li>Atendimento ao cliente no setor de vendas, oferecendo soluções personalizadas.</li>
+        <li>Organização de estoque e controle de mercadorias.</li>
+        <li>Desenvolvimento de estratégias para fidelização de clientes.</li>
+      </ul>
+    </article>
+  </section>
+
+  <hr>
+
+  <footer>
+    <p>Última atualização: Março de 2025</p>
+  </footer>
+
+</body>
+</html>
